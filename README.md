@@ -1,4 +1,5 @@
 # customer-segmentation-clustering
+Overview
 
 This project focuses on *Customer Segmentation* using the *K-Means Clustering* algorithm. Customer segmentation is a crucial marketing strategy that enables businesses to identify and group customers based on various attributes, helping to tailor marketing campaigns, personalize experiences, and optimize business strategies.
 
